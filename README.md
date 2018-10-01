@@ -1,0 +1,1 @@
+Basic Functionatily App for Rspec Testing Purposes
